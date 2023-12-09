@@ -27,6 +27,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "build-no-eslint": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -51,5 +52,4 @@
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "7.16.7"
   }
-  
 }
